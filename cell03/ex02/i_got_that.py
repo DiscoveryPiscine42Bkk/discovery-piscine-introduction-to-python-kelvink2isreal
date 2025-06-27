@@ -1,3 +1,4 @@
+#!/usr/bin/env python3
 Q = input ("What you gotta say? : ")
 i = 1
 while i > 0:

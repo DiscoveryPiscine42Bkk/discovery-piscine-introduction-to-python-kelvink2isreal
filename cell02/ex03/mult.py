@@ -1,3 +1,4 @@
+#!/usr/bin/env python3
 first_num = int(input("Enter the first number:\n"))
 sec_num = int(input("Enter ther second number:\n"))
 result = first_num * sec_num

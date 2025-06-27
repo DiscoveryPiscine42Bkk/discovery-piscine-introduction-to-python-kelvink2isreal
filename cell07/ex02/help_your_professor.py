@@ -1,3 +1,4 @@
+#!/usr/bin/env python3
 def average(marks):
     return sum(marks.values()) / len(marks) #values
 

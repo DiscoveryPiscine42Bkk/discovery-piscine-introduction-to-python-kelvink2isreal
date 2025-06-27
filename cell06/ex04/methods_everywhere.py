@@ -1,3 +1,4 @@
+#!/usr/bin/env python3
 import sys
 words = sys.argv[1:]
 def shrink(x):
