@@ -5,3 +5,4 @@ if number.is_integer(): #Checking the input is integer or not
 else:
     print("This number is a decimal.")
 
+
